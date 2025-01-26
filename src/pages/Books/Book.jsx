@@ -4,7 +4,7 @@ import React from 'react'
 function Book() {
   return (
     <div>
-      book
+     <h1>Nistha Kumari Panjiyar</h1>
     </div>
   )
 }
